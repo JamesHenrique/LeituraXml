@@ -65,21 +65,6 @@ Certifique-se de que seu ambiente possui as seguintes dependências instaladas:
   - Planilhas criadas.
   - Erros ou arquivos não encontrados.
   ---
-## Contribuições
-Contribuições são bem-vindas! Para colaborar:
-1. **Fork este repositório**.
-2. **Crie uma nova branch**:
- ```bash
- git checkout -b feature/nova-funcionalidade
- ```
-3. **Faça suas alterações e commit**:
- ```bash
- git commit -m "Adiciona nova funcionalidade"
- ```
-4. **Envie suas mudanças**:
- ```bash
- git push origin feature/nova-funcionalidade
- ```
-5. **Abra um Pull Request** para revisão.
+
 
    
